@@ -4,7 +4,6 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "packages/hardhat",
       "packages/nextjs"
     ]
   },

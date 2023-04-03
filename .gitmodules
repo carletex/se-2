@@ -1,3 +1,4 @@
 [submodule "packages/hardhat"]
 	path = packages/hardhat
 	url = https://github.com/carletex/se-2-hardhat
+	branch = main
